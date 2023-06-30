@@ -12,7 +12,7 @@ const SecondsCounter = ({ seconds }) => {
     backgroundColor: "#0e0e0e",
   };
   return (
-    <div className="d-flex justify-content-center container">
+    <div className="d-flex justify-content-center container bg-black text-white fs-1 mt-4 ">
       <div className="py-2 px-2 mx-1 my-2">
         <i className="far fa-clock"></i>
       </div>
